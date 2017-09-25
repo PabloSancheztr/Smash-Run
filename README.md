@@ -21,7 +21,15 @@ Práctica: Juegos en Red
 
 ## 2.Descripción del juego
 
+
+- Juego de carreras competitivo (2-4 jugadores).
+- Aparición de Power-Up's que concedan ventajas.
+- Aparición de enemigos que te obstaculizarán.
+- Menú de selección de personaje.
+
+
 ## 3.Reglas del juego
 
 
 ## 4.Referencias
+Mario Run

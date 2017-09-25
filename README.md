@@ -8,6 +8,4 @@ Práctica: Juegos en Red
 
 ## 1. Autores
 **Nombre y apellidos:** Pablo Manuel Sánchez Trujillo
-
-
 **Nombre y apellidos:**

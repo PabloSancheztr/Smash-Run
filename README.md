@@ -7,7 +7,7 @@ Práctica: Juegos en Red
   #### 4. Referencias
 
 ## 1. Autores
-**Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>
+**Nombre y apellidos:** Pablo Manuel Sánchez Trujillo
 
 
 **Nombre y apellidos:**

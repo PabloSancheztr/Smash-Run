@@ -19,7 +19,7 @@ Práctica: Juegos en Red
 **Correo corporativo:** a.navasca@alumnos.urjc.es<br>
 **Cuenta de GitHub:** unknown<br>
 
-## 2.Descripción del juego
+## 2. Descripción del juego
 
 
 - Juego de carreras competitivo (2-4 jugadores).
@@ -33,7 +33,7 @@ Práctica: Juegos en Red
 
 
 
-## 3.Reglas del juego
+## 3. Reglas del juego
 
 - 10 seg. de preparación antes de cada carrera.
 - Podrá moverse con el teclado (derecha/arriba/izquierda)
@@ -43,5 +43,5 @@ Práctica: Juegos en Red
 - Los power-up's aparecerán en puntos aleatorios del escenario. (provisional)
 - Las puntuaciones bonus se repartirán en orden de llegada, siendo estos: 500 pts, 200pts, 100pts, 0 pts (Por ejemplo en una partida de sólo 3 jugadores los puntos se repartirían: 200-100-0 respectivamente).
 
-## 4.Referencias
+## 4. Referencias
 - Mario Run  [https://www.youtube.com/watch?v=wSL56aLy8BI]

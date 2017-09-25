@@ -7,8 +7,8 @@ Práctica: Juegos en Red
   #### 4. Referencias
 
 ## 1. Autores
-**Nombre y apellidos:** Pablo Manuel Sánchez Trujillo
-**Correo corporativo:** pm.sancheztr@alumnos.urjc.es
-**Cuenta GitHub:** PabloSancheztr
+**Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>
+**Correo corporativo:** pm.sancheztr@alumnos.urjc.es<br>
+**Cuenta GitHub:** PabloSancheztr<br>
 
 **Nombre y apellidos:**

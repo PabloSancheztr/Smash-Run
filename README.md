@@ -1,4 +1,4 @@
-# Unknown
+# Smash Run
 Práctica: Juegos en Red
 
   #### 1. Autores

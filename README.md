@@ -13,11 +13,11 @@ Práctica: Juegos en Red
 
 **Nombre y apellidos:** Álvaro Sal Fernández <br>
 **Correo corporativo:** a.salf@alumnos.urjc.es<br>
-**Cuanta GitHub:** unknown<br>
+**Cuanta GitHub:** Asalfer<br>
 
 **Nombre y apellidos:** Álvaro Navas Castillo<br>
 **Correo corporativo:** a.navasca@alumnos.urjc.es<br>
-**Cuenta de GitHub:** unknown<br>
+**Cuenta de GitHub:** 13alvaro13<br>
 
 ## 2. Descripción del juego
 

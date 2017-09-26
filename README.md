@@ -37,4 +37,4 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
 - Las puntuaciones bonus se repartirán en orden de llegada, siendo estos: 500 pts, 200pts, 100pts, 0 pts (Por ejemplo en una partida de sólo 3 jugadores los puntos se repartirían: 200-100-0 respectivamente).
 
 ## 4. Referencias
-- Mario Run  [https://www.youtube.com/watch?v=wSL56aLy8BI]
+- Mario Run  https://www.youtube.com/watch?v=wSL56aLy8BI

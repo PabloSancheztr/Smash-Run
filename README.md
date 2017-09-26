@@ -21,17 +21,9 @@ Práctica: Juegos en Red
 
 ## 2. Descripción del juego
 
-El juego se basa en carreras competitivas en tiempo real entre 2-4 jugadores. Durante la carrera cada persona se ira encontrando diferentes PowerUps que les darán ventaja frente a sus rivales o darán una desventaja a sus rivales. También se encontrarán con diferentes enemigos a los que podrás sortear, matar para conseguir puntos o si por el contrario chocas contra ellos tendrás una penalización de tiempo quedando inmóvil durante un breve periodo de tiempo.
-Los jugadores podrán
-- Juego de carreras competitivo (2-4 jugadores).
-- Aparición de Power-Up's que concedan ventajas.
-- Aparición de enemigos que te obstaculizarán.
-- Menú de selección de personaje.
-- Chat al inicio y final de cada carrera para interactuar con los demás jugadores.
-- Notificación (gráfica o textual) de la posición de los contrincantes.
-- Puntuación: al recoger items o matar enemigos.
-- Hall of fame: Resumen de la partida recién jugada y de las mejores puntuaciones de las anteriores.
-
+El juego se basa en carreras competitivas en tiempo real entre 2-4 jugadores. Durante la carrera cada persona se ira encontrando diferentes PowerUps que les darán ventaja frente a sus rivales o darán una desventaja a sus rivales. También se encontrarán con diferentes enemigos a los que podrás sortear, matar para conseguir puntos o si por el contrario chocas contra ellos tendrás una penalización de tiempo quedando inmóvil durante un breve periodo de tiempo.<br>
+Al llegar a la meta se hará recuento de todos los puntos obtenidos por los jugadores a lo largo de la carrera; el que consiga más puntos será el ganador, que podrá entrar en el Hall of Fame (tabla donde se recogen las 10 puntuaciones más altas) si consigue los puntos suficientes para entrar.<br>
+Los jugadores podrán interactuar entre sí antes y después de la partida mediante un chat de texto y durante la partida sabrán en todo momento su posición (de forma global en el circuito) y la de sus contrincantes mediante una pequeña interfaz visual.
 
 
 ## 3. Reglas del juego

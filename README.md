@@ -21,7 +21,8 @@ Práctica: Juegos en Red
 
 ## 2. Descripción del juego
 
-
+El juego se basa en carreras competitivas en tiempo real entre 2-4 jugadores. Durante la carrera cada persona se ira encontrando diferentes PowerUps que les darán ventaja frente a sus rivales o darán una desventaja a sus rivales. También se encontrarán con diferentes enemigos a los que podrás sortear, matar para conseguir puntos o si por el contrario chocas contra ellos tendrás una penalización de tiempo quedando inmóvil durante un breve periodo de tiempo.
+Los jugadores podrán
 - Juego de carreras competitivo (2-4 jugadores).
 - Aparición de Power-Up's que concedan ventajas.
 - Aparición de enemigos que te obstaculizarán.

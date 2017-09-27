@@ -38,3 +38,4 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
 
 ## 4. Referencias
 - Mario Run  https://www.youtube.com/watch?v=wSL56aLy8BI
+- Juego del Pangolín https://www.google.com/doodles/valentines-day-2017-day-1?hl=es

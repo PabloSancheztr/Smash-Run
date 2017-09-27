@@ -1,6 +1,6 @@
 # Smash Run
 Práctica: Juegos en Red
-
+prueba
   #### 1. Autores
   #### 2. Descripción del juego
   #### 3. Reglas del juego

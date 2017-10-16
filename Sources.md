@@ -1,4 +1,4 @@
-##Sprites
+###Sprites
 
 https://ssjsupermario.deviantart.com/art/Yoshi-472643622
 
@@ -10,7 +10,7 @@ http://i.imgur.com/P6yozhP.png
 
 https://forum.unity.com/attachments/pickup_coin-png.93376/
 
-##Music
+###Music
 
 http://soundbible.com/tags-game.html
 

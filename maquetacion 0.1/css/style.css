@@ -1,0 +1,41 @@
+#titulo{
+  position: absolute;
+  top: 10;
+  left: 200px;
+}
+
+#juego{
+  background-color: #0000FF;
+  width: 640px;
+  height: 256px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  font-size: 180px;
+}
+
+#controles{
+  position: absolute;
+  top: 460px;
+  left: 240;
+}
+
+#teclas{
+  position: relative;
+  left: 200px;
+  
+}
+
+#creditos{
+  position: absolute;
+  top: 660px;
+  left: 240px;
+}
+
+.extra{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+.lw { font-size: 60px; }

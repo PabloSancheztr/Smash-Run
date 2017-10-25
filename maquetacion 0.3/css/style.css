@@ -1,0 +1,91 @@
+#titulo{
+  position: absolute;
+  top: 60px;
+  left: 200px;
+}
+
+#juego{
+  background-color: #0000FF;
+  width: 640px;
+  height: 256px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  font-size: 180px;
+}
+
+#controles{
+  position: absolute;
+  top: 460px;
+  left: 240;
+}
+
+#teclas{
+  position: relative;
+  left: 180px;
+  top: -130px;
+  font-size: 20px;  
+}
+
+#creditos{
+  position: absolute;
+  top: 680px;
+  left: 240px;
+}
+
+.extra{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#fondo { 
+	position: fixed; 
+	top: 0px; 
+	left: 0px; 
+	min-width: 100%; 
+	min-height: 100%;
+	width: auto; 
+	height: auto; 
+	z-index: -10; 
+	overflow: hidden; 
+}  
+
+#imgControles{
+  position: relative;
+  width: 140px;
+  height: 100px;
+}
+
+#imgControles2{
+  position: relative;
+  top: -250px ;
+  left: 370px;
+  width: 140px;
+  height: 100px;
+}
+
+#logo{
+  position: relative;
+  width: 70px;
+  height: 70px;
+}
+
+#tituloT{
+  position: relative;
+  top: -15px;
+}
+
+
+.lw { 
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 60px; 
+}
+
+.comics{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 24px;
+}
+
+
+

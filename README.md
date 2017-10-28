@@ -45,15 +45,15 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
 - Conceptos básicos y primeras ideas:
     Phaser
     
-- Sprites personaje:
+- Sprites personaje:<br>
     A.J Nitro_______________TheGuy07__________Alvin-Earthworm<br>
-    Ragey                   Chrispriter1     JumpmanMFGG<br>
-    Tufftony                LuigiRulz        Yoshi101333<br>
-    Alpha-the-Hedgehog      BrawlFan1        DarkMarc9<br>
-    (xXbooKingXx)           SMBZ1            FaisalAden<br>
-    ZatchHunter             ShadeFalcon      Shadow6224<br>
-    Legend-Tony980          KingAsylus91     Mario-Galaxy<br>
-    Yoshiller               ssjsupermario<br>
+    Ragey___________________Chrispriter1______JumpmanMFGG<br>
+    Tufftony________________LuigiRulz_________Yoshi101333<br>
+    Alpha-the-Hedgehog______BrawlFan1_________DarkMarc9<br>
+    (xXbooKingXx)___________SMBZ1_____________FaisalAden<br>
+    ZatchHunter_____________ShadeFalcon_______Shadow6224<br>
+    Legend-Tony980__________KingAsylus91______Mario-Galaxy<br>
+    Yoshiller_______________ssjsupermario<br>
     
  - Tiles mapa
     BMSantos

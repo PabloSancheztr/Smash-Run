@@ -46,7 +46,7 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
     Phaser
     
 - Sprites personaje:
-    A.J Nitro               TheGuy07         Alvin-Earthworm<br>
+    A.J Nitro_______________TheGuy07__________Alvin-Earthworm<br>
     Ragey                   Chrispriter1     JumpmanMFGG<br>
     Tufftony                LuigiRulz        Yoshi101333<br>
     Alpha-the-Hedgehog      BrawlFan1        DarkMarc9<br>

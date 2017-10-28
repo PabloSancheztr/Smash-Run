@@ -42,7 +42,7 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
 - Juego del Pangolín https://www.google.com/doodles/valentines-day-2017-day-1?hl=es
 
 ## 5. Agradecimientos
-- Conceptos básicos y primeras ideas:
+- Conceptos básicos y primeras ideas:<br>
     Phaser
     
 - Sprites personaje:<br>
@@ -55,5 +55,5 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
     Legend-Tony980__________KingAsylus91______Mario-Galaxy<br>
     Yoshiller_______________ssjsupermario<br>
     
- - Tiles mapa
+ - Tiles mapa<br>
     BMSantos

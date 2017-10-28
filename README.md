@@ -5,6 +5,7 @@ Práctica: Juegos en Red
   #### 2. Descripción del juego
   #### 3. Reglas del juego
   #### 4. Referencias
+  #### 5. Agradecimientos
 
 ## 1. Autores
 **Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>
@@ -39,3 +40,20 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
 ## 4. Referencias
 - Mario Run  https://www.youtube.com/watch?v=wSL56aLy8BI
 - Juego del Pangolín https://www.google.com/doodles/valentines-day-2017-day-1?hl=es
+
+## 5. Agradecimientos
+- Conceptos básicos y primeras ideas:
+    Phaser
+    
+- Sprites personaje:
+    A.J Nitro               TheGuy07         Alvin-Earthworm
+    Ragey                   Chrispriter1     JumpmanMFGG
+    Tufftony                LuigiRulz        Yoshi101333
+    Alpha-the-Hedgehog      BrawlFan1        DarkMarc9
+    (xXbooKingXx)           SMBZ1            FaisalAden
+    ZatchHunter             ShadeFalcon      Shadow6224
+    Legend-Tony980          KingAsylus91     Mario-Galaxy
+    Yoshiller               ssjsupermario
+    
+ - Tiles mapa
+    BMSantos

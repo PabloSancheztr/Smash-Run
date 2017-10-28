@@ -46,14 +46,14 @@ Los jugadores podrán interactuar entre sí antes y después de la partida media
     Phaser
     
 - Sprites personaje:
-    A.J Nitro               TheGuy07         Alvin-Earthworm
-    Ragey                   Chrispriter1     JumpmanMFGG
-    Tufftony                LuigiRulz        Yoshi101333
-    Alpha-the-Hedgehog      BrawlFan1        DarkMarc9
-    (xXbooKingXx)           SMBZ1            FaisalAden
-    ZatchHunter             ShadeFalcon      Shadow6224
-    Legend-Tony980          KingAsylus91     Mario-Galaxy
-    Yoshiller               ssjsupermario
+    A.J Nitro               TheGuy07         Alvin-Earthworm<br>
+    Ragey                   Chrispriter1     JumpmanMFGG<br>
+    Tufftony                LuigiRulz        Yoshi101333<br>
+    Alpha-the-Hedgehog      BrawlFan1        DarkMarc9<br>
+    (xXbooKingXx)           SMBZ1            FaisalAden<br>
+    ZatchHunter             ShadeFalcon      Shadow6224<br>
+    Legend-Tony980          KingAsylus91     Mario-Galaxy<br>
+    Yoshiller               ssjsupermario<br>
     
  - Tiles mapa
     BMSantos

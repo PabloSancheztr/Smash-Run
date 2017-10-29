@@ -40,7 +40,10 @@ Al iniciar el juego los dos jugadores comenzaran en la tuberia de salida (cuando
 
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura2.png)<br>
 Los jugadores iran por el mapa haciendo una carrera por llegar antes a la meta, durante este trayecto se encontrarán estrellas, que
-podrán ser recolectadas por los jugadores, las cuales les otorgarán una puntuación que les ayudará a ganar la carrera <br><br>
+podrán ser recolectadas por los jugadores, las cuales les otorgarán una puntuación que les ayudará a ganar la carrera <br><br><br>
+
+![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura3.png)<br>
+Cuando el primer jugador llegue a la meta se acabará la carrera y se hará un recuento de los puntos obtenidos a lo largo de la carrera (llegar primero a la meta también otorga puntos a ese jugador). El jugador con más puntos ganará la carrera
 
 ## 6. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>

@@ -35,7 +35,7 @@ El juego se basa en carreras competitivas en tiempo real entre 2-4 jugadores.<br
 - Juego del Pangolín https://www.google.com/doodles/valentines-day-2017-day-1?hl=es
 
 ## 5. Capturas
-[!alt text](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura1.png)
+[!alt text]/captura1.png
 
 ## 6. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>

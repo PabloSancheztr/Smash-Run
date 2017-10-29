@@ -5,7 +5,8 @@ Práctica: Juegos en Red
   #### 2. Descripción del juego
   #### 3. Reglas del juego
   #### 4. Referencias
-  #### 5. Agradecimientos
+  #### 5. Capturas
+  #### 6. Agradecimientos
 
 ## 1. Autores
 **Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>
@@ -33,7 +34,10 @@ El juego se basa en carreras competitivas en tiempo real entre 2-4 jugadores.<br
 - Mario Run  https://www.youtube.com/watch?v=wSL56aLy8BI
 - Juego del Pangolín https://www.google.com/doodles/valentines-day-2017-day-1?hl=es
 
-## 5. Agradecimientos
+## 5. Capturas
+
+
+## 6. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>
     Phaser
     

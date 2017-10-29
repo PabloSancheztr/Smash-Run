@@ -1,4 +1,4 @@
-var game = new Phaser.Game(800, 400, Phaser.CANVAS, 'canvas', { preload: preload, create: create, update: update}); // (ancho, alto, ...
+var game = new Phaser.Game(1000, 400, Phaser.CANVAS, 'canvas', { preload: preload, create: create, update: update}); // (ancho, alto, ...
 var stars;
 var score = 0;
 var score2 = 0;
@@ -201,7 +201,11 @@ function update()
     }
 
     // La camara deja de seguir al jugador al final del mapa, porque si no aparece un bug de pared invisible
-    if(player1.body.position.x > 2000)
+    if(player1.body.position.x > 1900)
+    {
+        game.camera.follow(null);
+    }
+	if(player2.body.position.x > 1900)
     {
         game.camera.follow(null);
     }
@@ -233,7 +237,7 @@ function update()
     }
     if((player2.body.position.x >= 2340 && player2.body.x <= 2360) && (player2.body.position.y >= 33 && player2.body.position.y <= 34))
     {
-		score2 =+ 50;
+		score2 += 50;
 		quien_gana();
         game.paused = true;
 
@@ -264,7 +268,7 @@ function quien_gana(){
 	if(score > score2)
 		alert("¡Enhorabuena Jugador 1 has ganado con " + score + " puntos!");
 	else if(score2 > score)
-		alert("¡Enhorabuena Jugador 1 has ganado con " + score2 + " puntos!");
+		alert("¡Enhorabuena Jugador 2 has ganado con " + score2 + " puntos!");
 	else
 		alert("¡Oh tenemos un empate con " + score + " puntos!");
 	

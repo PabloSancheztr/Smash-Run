@@ -36,7 +36,7 @@ El juego se basa en carreras competitivas en tiempo real entre 2-4 jugadores.<br
 
 ## 5. Capturas
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura1.png) <br>
-Al iniciar el juego los dos jugadores comenzaran en la tuberia de salida (cuando este implementado en red saldrán en la misma posicion, por el momento uno sale por delante de otro por temas de visualización de los dos personajes) <br><br>
+Al iniciar el juego los dos jugadores comenzaran en la tuberia de salida (cuando este implementado en red saldrán en la misma posicion, por el momento uno sale por delante de otro por temas de visualización de los dos personajes) <br><br><br>
 
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura2.png)<br>
 Los jugadores iran por el mapa haciendo una carrera por llegar antes a la meta, durante este trayecto se encontrarán estrellas, que

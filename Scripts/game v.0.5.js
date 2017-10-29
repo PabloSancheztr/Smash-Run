@@ -164,7 +164,7 @@ function update()
     /****************************************
     ************** Ganador ******************
     *****************************************/
-    if((player1.body.position.x >= 2340 && player1.body.x <= 2360) && (player1.body.position.y >= 33 && player1.body.position.y >= 34))
+    if((player1.body.position.x >= 2340 && player1.body.x <= 2360) && (player1.body.position.y >= 33 && player1.body.position.y <= 34))
     {
         window.alert("Jugador 1 gana!!");
         game.paused = true;
@@ -172,7 +172,7 @@ function update()
         setTimeout(restartP1(), 3000);
         setTimeout(restartP2(), 3000);
     }
-    if((player2.body.position.x >= 2340 && player2.body.x <= 2360) && (player2.body.position.y >= 33 && player2.body.position.y >= 34))
+    if((player2.body.position.x >= 2340 && player2.body.x <= 2360) && (player2.body.position.y >= 33 && player2.body.position.y <= 34))
     {
         window.alert("Jugador 2 gana!!");
         game.paused = true;

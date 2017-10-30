@@ -23,7 +23,11 @@ Práctica: Juegos en Red
 
 ## 2. Descripción del juego
 
-El juego se basa en carreras competitivas en tiempo real entre 2-4 jugadores.<br>
+El juego se basa en carreras competitivas en tiempo real entre 2 jugadores.<br>
+Se crearán estrellas que otorgarán puntos al marcador de cada jugador.<br>
+Llegar primero a la meta otorga puntos adicionales.<br>
+El jugador con más puntuación al final de la partida gana.<br>
+
 
 ## 3. Reglas del juego
 

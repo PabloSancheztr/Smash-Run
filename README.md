@@ -39,8 +39,15 @@ El jugador con más puntuación al final de la partida gana.<br>
 - Juego del Pangolín https://www.google.com/doodles/valentines-day-2017-day-1?hl=es
 
 ## 5. Capturas
+![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura4.png)<br>
+El juego comienza con un menú principal desde donde se podrá acceder al juego en sí o a la tabla de puntuaciones<br><br><br>
+
+![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura5.png)<br>
+La tabla de puntuaciones muestra en orden descendente las mejores puntuaciones conseguidas y el nombre de los jugadores que las han
+conseguido. Desde esta pantalla se puede volver al menú principal
+
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura1.png) <br>
-Al iniciar el juego los dos jugadores comenzaran en la tuberia de salida (cuando este implementado en red saldrán en la misma posicion, por el momento uno sale por delante de otro por temas de visualización de los dos personajes) <br><br><br>
+Al pulsar 'jugar' los dos jugadores comenzarán en la tuberia de salida (cuando este implementado en red saldrán en la misma posicion, por el momento uno sale por delante de otro por temas de visualización de los dos personajes) <br><br><br>
 
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura2.png)<br>
 Los jugadores iran por el mapa haciendo una carrera por llegar antes a la meta, durante este trayecto se encontrarán estrellas, que

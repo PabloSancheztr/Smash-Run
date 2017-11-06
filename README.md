@@ -5,7 +5,7 @@ Práctica: Juegos en Red
   #### 2. Descripción del juego
   #### 3. Reglas del juego
   #### 4. Referencias
-  #### 5. Capturas
+  #### 5. Capturas y diagramas
   #### 6. Agradecimientos
 
 ## 1. Autores
@@ -38,7 +38,7 @@ El jugador con más puntuación al final de la partida gana.<br>
 - Mario Run  https://www.youtube.com/watch?v=wSL56aLy8BI
 - Juego del Pangolín https://www.google.com/doodles/valentines-day-2017-day-1?hl=es
 
-## 5. Capturas
+## 5. Capturas y diagramas
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura4.png)<br>
 El juego comienza con un menú principal desde donde se podrá acceder al juego en sí o a la tabla de puntuaciones<br><br><br>
 
@@ -54,7 +54,7 @@ Los jugadores iran por el mapa haciendo una carrera por llegar antes a la meta, 
 podrán ser recolectadas por los jugadores, las cuales les otorgarán una puntuación que les ayudará a ganar la carrera <br><br><br>
 
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/captura3.png)<br>
-Cuando el primer jugador llegue a la meta se acabará la carrera y se hará un recuento de los puntos obtenidos a lo largo de la carrera (llegar primero a la meta también otorga puntos a ese jugador). El jugador con más puntos ganará la carrera
+Cuando el primer jugador llegue a la meta se acabará la carrera y se hará un recuento de los puntos obtenidos a lo largo de la carrera (llegar primero a la meta también otorga puntos a ese jugador). El jugador con más puntos ganará la carrera<br><br><br>
 
 ## 6. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>

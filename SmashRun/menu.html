@@ -3,7 +3,6 @@
 <head>
 <title>Smash-Run</title>
 <link type="text/css" rel="stylesheet" href="css/style.css"/>
-<script type="text/javascript" src="js/phaser.min.js"></script>
 </head>
 <body>
 <!-- Inicio Codigo -->
@@ -14,10 +13,12 @@
     <span id="tituloT" class="lw">Smash-Run</span>
   </span>
   
+  <span id = botones>
+    <input id = boton_jugar class="boton" onclick="location.href='SmashRun.html';" value="JUGAR" />
+    <br><br/><br><br/>    
+    <input id = boton_jugar class="boton" onclick="location.href='Puntuaciones.html';" value="PUNTUACIONES" />
   
-  <input type="button" onclick="location.href='Menu.html';" value="Volver al menu" />
-  <!-- Espacio reservado para Phaser -->
-  <canvas id="juego" align = "center"> </canvas> 
+  </span>
   
   <span id="controles">
     <p class="extra">Controles</p>
@@ -53,6 +54,5 @@
   </span>
 
     <!-- Fin Codigo -->
-    <script type="text/javascript" src="js/game.js"></script>
 </body>
 </html>

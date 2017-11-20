@@ -57,9 +57,8 @@ podrán ser recolectadas por los jugadores, las cuales les otorgarán una puntua
 Cuando el primer jugador llegue a la meta se acabará la carrera y se hará un recuento de los puntos obtenidos a lo largo de la carrera (llegar primero a la meta también otorga puntos a ese jugador). El jugador con más puntos ganará la carrera<br><br><br>
 
 **Diagrama de secuencias**<br>
-![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/Diagrama%20de%20secuencia.png)<br>
-En este diagrama de secuencias se puede observar como funcionan las distintas pantallas dentro del juego y el mapa de navegación.
-Pudiendo pasar del menú a las puntuaciones y volver; y del menú al juego y volver.
+![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/Sin%20t%C3%ADtulo.png)<br>
+En este diagrama de secuencias se puede observar como funcionan los distintos elementeos de la web, y como interaccionan entre ellos.
 
 ## 6. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>

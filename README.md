@@ -64,7 +64,7 @@ En este diagrama de secuencias se puede observar como funcionan los distintos el
 ## 6. Instrucciones para ejecutar
 a- Abre el archivo desde el entorno Eclipse, o cualquier entorno vitaminado con Spring.<br>
 b- Ejecuta el servidor.<br>
-c- Abre tu navegador e introduce la uri -> 127.0.0.1:8080/menu.html <br>
+c- Abre tu navegador e introduce la url -> 127.0.0.1:8080/menu.html <br>
 d- Disfrutar jugando.<br>
 
 ## 7. Agradecimientos

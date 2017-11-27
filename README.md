@@ -62,7 +62,7 @@ Cuando el primer jugador llegue a la meta se acabará la carrera y se hará un r
 En este diagrama de secuencias se puede observar como funcionan los distintos elementeos de la web y cómo interaccionan entre ellos.
 
 **Diagrama de clases**<br>
-![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/Diagrama%20%20clases%20Smash-Run.png.png)<br>
+![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/Diagrama%20%20clases%20Smash-Run.png)<br>
 En este diagrama de clases se puede observar como funcionan los distintos elementeos del servidor y cómo interaccionan entre ellos.
 
 

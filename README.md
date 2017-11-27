@@ -6,7 +6,8 @@ Práctica: Juegos en Red
   #### 3. Reglas del juego
   #### 4. Referencias
   #### 5. Capturas y diagramas
-  #### 6. Agradecimientos
+  #### 6. Instrucciones para ejecutar
+  #### 7. Agradecimientos
 
 ## 1. Autores
 **Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>
@@ -60,7 +61,13 @@ Cuando el primer jugador llegue a la meta se acabará la carrera y se hará un r
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/Sin%20t%C3%ADtulo.png)<br>
 En este diagrama de secuencias se puede observar como funcionan los distintos elementeos de la web, y como interaccionan entre ellos.
 
-## 6. Agradecimientos
+## 6. Instrucciones para ejecutar
+a- Abre el archivo desde el entorno Eclipse, o cualquier entorno vitaminado con Spring.<br>
+b- Ejecuta el servidor.<br>
+c- Abre tu navegador e introduce la uri -> 127.0.0.1:8080/menu.html <br>
+d- Disfrutar jugando.<br>
+
+## 7. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>
     Phaser
     

@@ -59,7 +59,12 @@ Cuando el primer jugador llegue a la meta se acabará la carrera y se hará un r
 
 **Diagrama de secuencias**<br>
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/Sin%20t%C3%ADtulo.png)<br>
-En este diagrama de secuencias se puede observar como funcionan los distintos elementeos de la web, y como interaccionan entre ellos.
+En este diagrama de secuencias se puede observar como funcionan los distintos elementeos de la web y cómo interaccionan entre ellos.
+
+**Diagrama de clases**<br>
+![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/Diagrama%20%20clases%20Smash-Run.png.png)<br>
+En este diagrama de clases se puede observar como funcionan los distintos elementeos del servidor y cómo interaccionan entre ellos.
+
 
 ## 6. Instrucciones para ejecutar
 a- Abre el archivo desde el entorno Eclipse, o cualquier entorno vitaminado con Spring.<br>

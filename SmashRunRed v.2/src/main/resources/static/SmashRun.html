@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smash-Run</title>
+<link type="text/css" rel="stylesheet" href="css/style.css"/>
+<script type="text/javascript" src="js/phaser.min.js"></script>
+</head>
+<body>
+<!-- Inicio Codigo -->
+
+  <span id="titulo">
+    <span> <!--Logo-->
+      <img id="logo" src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/icono.png" /></span> 
+    <span id="tituloT" class="lw">Smash-Run</span>
+  </span>
+  
+  
+  <input type="button" onclick="location.href='Menu.html';" value="Volver al menu" />
+  <!-- Espacio reservado para Phaser -->
+  <canvas id="juego" align = "center"> </canvas> 
+  
+  <span id="controles">
+    <p class="extra">Controles</p>
+    
+    <span>  <!--Imagen Controles Jugador1-->
+        <img id="imgControles" src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/Teclas(wasd).png"/> 
+    </span> 
+    
+    <span id="teclas" class="comics">    
+      <p class="comics"> W - Salto 
+        <br> A - Izquierda 
+        <br> D - Derecha
+      </p>
+    </span>
+    
+   <span>  <!--Imagen Controles Jugador2-->
+        <img id="imgControles2" src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/Teclas(flecha).png"/> 
+    </span> 
+    
+  </span>
+  
+  <span id="creditos">
+    <p class="extra">Autores</p>
+    <span>
+      <p class="comics">Ã�lvaro Navas Castillo, Ã�lvaro Sal FernÃ¡ndez, Pablo SÃ¡nchez Trujillo</p>
+      <a class="comics"href= "https://github.com/PabloSancheztr/Smash-Run"> Repositorio GitHub </a>
+    </span>
+  </span>
+  
+  <span> <!-- Imagen de Fondo -->
+    <img id="fondo"
+    src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/background2.jpeg"/> 
+  </span>
+
+    <!-- Fin Codigo -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/RestController.js"></script>
+    <script type="text/javascript" src="js/game1.js"></script>
+</body>
+</html>

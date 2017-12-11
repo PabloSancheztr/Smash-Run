@@ -1,0 +1,113 @@
+#titulo{
+  position: absolute;
+  top: 60px;
+  left: 200px;
+}
+
+#controles{
+  position: absolute;
+  top: 540px;
+  left: 240px;
+}
+
+#teclas{
+  position: relative;
+  left: 180px;
+  top: -130px;
+  font-size: 20px;  
+}
+
+#creditos{
+  position: absolute;
+  top: 740px;
+  left: 240px;
+}
+
+.extra{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#fondo { 
+    position: fixed; 
+    top: 0px; 
+    left: 0px; 
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto; 
+    height: auto; 
+    z-index: -10; 
+    overflow: hidden; 
+}  
+
+#imgControles{
+  position: relative;
+  width: 140px;
+  height: 100px;
+}
+
+#imgControles2{
+  position: relative;
+  top: -250px ;
+  left: 370px;
+  width: 140px;
+  height: 100px;
+}
+
+#logo{
+  position: relative;
+  width: 70px;
+  height: 70px;
+}
+
+#tituloT{
+  position: relative;
+  top: -15px;
+}
+
+
+#botones{
+  position: absolute;
+  top: 230px;
+  left: 260px;
+}
+
+.boton{
+  width: 400px;  
+  height: 100px;
+  border-radius: 33px;
+  border: 5px solid #000000;
+  background-color: #D3D3D3;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30pt;
+  color: #000000;
+  text-align: center;
+}
+
+#puntuaciones {
+  position: absolute;
+  top: 150px;
+  left: 260px;
+
+}
+
+#max_pts{
+  font-family: "Comic Sans MS", bold, sans-serif;
+  font-size: 30px;
+}
+
+#tabla_puntuaciones{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+}
+
+.lw { 
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 60px; 
+}
+
+.comics{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 24px;
+}  

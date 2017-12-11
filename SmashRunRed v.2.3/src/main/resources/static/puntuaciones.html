@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smash-Run</title>
+<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
+
+</head>
+<body>
+<!-- Inicio Codigo -->
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/RestController.js"></script>
+
+  <span id="titulo">
+    <span> <!--Logo-->
+      <img id="logo" src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/icono.png" /></span> 
+    <span id="tituloT" class="lw">Smash-Run</span>
+  </span>
+  
+  
+  
+  <!-- Puntuaciones -->
+  <span id = puntuaciones>
+    <input type="button" onclick="location.href='Menu.html';" value="Volver al menu" />
+    
+	<p id="max_pts"> Máximas Puntuaciones </p>
+   
+    <ol id="tabla_puntuaciones">
+
+      <li id="puntos0">coco  ............. 290pts </li>
+      <li id="puntos1">TeTe  ............  270pts </li>      
+      <li id="puntos2">OlBaP  ...........  260pts </li>
+      <li id="puntos3">mYSh  ...........   240pts</li>      
+      <li id="puntos4">Tsuyu  ...........  230pts </li>
+      <li id="puntos5">dAWAd  .......      200pts </li>      
+      <li id="puntos6">Lissa  ............ 180pts </li>
+      <li id="puntos7">Asc3n  ..........   150pts </li>      
+      <li id="puntos8">PitPC  ............ 110pts </li>
+      <li id="puntos9">SunFL  ..........   70pts </li>
+      
+
+    </ol>
+  </span>
+  
+  <span id="controles">
+    <p class="extra">Controles</p>
+    
+    <span>  <!--Imagen Controles Jugador1-->
+        <img id="imgControles" src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/Teclas(wasd).png"/> 
+    </span> 
+    
+    <span id="teclas" class="comics">    
+      <p class="comics"> W - Salto 
+        <br> A - Izquierda 
+        <br> D - Derecha
+      </p>
+    </span>
+    
+   <span>  <!--Imagen Controles Jugador2-->
+        <img id="imgControles2" src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/Teclas(flecha).png"/> 
+    </span> 
+    
+  </span>
+  
+  <span id="creditos">
+    <p class="extra">Autores</p>
+    <span>
+      <p class="comics">Álvaro Navas Castillo, Álvaro Sal Fernández, Pablo Sánchez Trujillo</p>
+      <a class="comics"href= "https://github.com/PabloSancheztr/Smash-Run"> Repositorio GitHub </a>
+    </span>
+  </span>
+  
+  <span> <!-- Imagen de Fondo -->
+    <img id="fondo"
+    src="https://raw.githubusercontent.com/PabloSancheztr/Smash-Run/master/background2.jpeg"/> 
+  </span>
+
+  <script type="text/javascript">
+    window.onload = function() {
+      getPuntos();
+    }
+  </script>
+    <!-- Fin Codigo -->
+</body>
+</html>

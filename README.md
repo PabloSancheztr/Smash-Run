@@ -10,6 +10,8 @@ Práctica: Juegos en Red
   #### 7. Protocolo websockets
   #### 8. Agradecimientos
 
+Vídeo de la práctica: https://www.youtube.com/watch?v=rhTYsJCCyiI&feature=youtu.be
+
 ## 1. Autores
 **Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>
 **Correo corporativo:** pm.sancheztr@alumnos.urjc.es<br>

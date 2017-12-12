@@ -1,5 +1,5 @@
 # Smash Run
-Práctica: Juegos en Red
+Práctica: Juegos en Red<br>
 Vídeo de la práctica: https://www.youtube.com/watch?v=rhTYsJCCyiI&feature=youtu.be
 
   #### 1. Autores

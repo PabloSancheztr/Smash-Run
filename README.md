@@ -1,5 +1,6 @@
 # Smash Run
 Práctica: Juegos en Red
+Vídeo de la práctica: https://www.youtube.com/watch?v=rhTYsJCCyiI&feature=youtu.be
 
   #### 1. Autores
   #### 2. Descripción del juego
@@ -9,8 +10,6 @@ Práctica: Juegos en Red
   #### 6. Instrucciones para ejecutar
   #### 7. Protocolo websockets
   #### 8. Agradecimientos
-
-Vídeo de la práctica: https://www.youtube.com/watch?v=rhTYsJCCyiI&feature=youtu.be
 
 ## 1. Autores
 **Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>

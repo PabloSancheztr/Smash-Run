@@ -7,7 +7,8 @@ Práctica: Juegos en Red
   #### 4. Referencias
   #### 5. Capturas y diagramas
   #### 6. Instrucciones para ejecutar
-  #### 7. Agradecimientos
+  #### 7. Protocolo websockets
+  #### 8. Agradecimientos
 
 ## 1. Autores
 **Nombre y apellidos:** Pablo Manuel Sánchez Trujillo<br>
@@ -72,7 +73,11 @@ b- Ejecuta el servidor.<br>
 c- Abre tu navegador e introduce la url -> 127.0.0.1:8080/menu.html <br>
 d- Disfrutar jugando.<br>
 
-## 7. Agradecimientos
+## 7. Protocolo websockets
+Para los websockets hemos utilizado el protocolo ws. El cual utiliza una comunicación asíncrona entre cliente y servidor. Está diseñada para ser implementada en navegadores y servidores web, pero puede utilizarse por cualquier aplicación cliente/servidor. La API de WebSocket está siendo normalizada por el W3C, mientras que el protocolo WebSocket ya fue normalizado por la IETF.<br>
+Para establecer una conexión WebSocket, el cliente manda una petición de negociación WebSocket, y el servidor manda una respuesta de negociación WebSocket
+
+## 8. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>
     Phaser
     

@@ -76,7 +76,9 @@ d- Disfrutar jugando.<br>
 
 ## 7. Protocolo websockets
 Para los websockets hemos utilizado el protocolo ws. El cual utiliza una comunicación asíncrona entre cliente y servidor. Está diseñada para ser implementada en navegadores y servidores web, pero puede utilizarse por cualquier aplicación cliente/servidor. La API de WebSocket está siendo normalizada por el W3C, mientras que el protocolo WebSocket ya fue normalizado por la IETF.<br>
-Para establecer una conexión WebSocket, el cliente manda una petición de negociación WebSocket, y el servidor manda una respuesta de negociación WebSocket
+Para establecer una conexión WebSocket, el cliente manda una petición de negociación WebSocket, y el servidor manda una respuesta de negociación WebSocket.<br>
+El cliente envía la posición del jugador que controlas( 'x' e 'y' ) al servidor y este al resto de los clientes. Con un booleano seleccionamos si es 'x' o 'y' para que se interpreten los datos recibidos de forma correcta.<br>
+
 
 ## 8. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>

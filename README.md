@@ -65,7 +65,7 @@ En este diagrama de secuencias se puede observar como funcionan los distintos el
 
 **Diagrama de clases**<br>
 ![picture](https://github.com/PabloSancheztr/Smash-Run/blob/master/diagrama%20de%20clases%20websocket.png)<br>
-En este diagrama de clases se puede observar como funcionan los distintos elementeos del servidor y el websocket y cómo interaccionan entre ellos.
+En este diagrama de clases se puede observar como funcionan los distintos elementeos del servidor y cómo interaccionan entre ellos.
 
 
 ## 6. Instrucciones para ejecutar

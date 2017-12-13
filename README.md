@@ -79,6 +79,9 @@ Para los websockets hemos utilizado el protocolo ws. El cual utiliza una comunic
 Para establecer una conexión WebSocket, el cliente manda una petición de negociación WebSocket, y el servidor manda una respuesta de negociación WebSocket.<br>
 El cliente envía la posición del jugador que controlas( 'x' e 'y' ) al servidor y este al resto de los clientes. Con un booleano seleccionamos si es 'x' o 'y' para que se interpreten los datos recibidos de forma correcta.<br>
 
+Codigo: <br>
+El mensaje es: {posicion:{pos_x : valor de la posicion x, pos_y : valor de la posicion y}}
+
 
 ## 8. Agradecimientos
 - Conceptos básicos y primeras ideas:<br>
